@@ -31,3 +31,5 @@ This process is independent of Github
 git config --global user.name "Raghav"
 git config --global user.email raghavendra.konkathi@gmail.com
 ```
+
+This concludes basic setup in a linux PC.
