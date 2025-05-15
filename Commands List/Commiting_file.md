@@ -16,4 +16,6 @@ Some good practises before writing a commit.
 Here:
 "Added the file.txt for indexing purpose" - Is the commit message and it is activated by using the option -m after the commit command.
 
-### Always remember, Good commit messages are crucial. They tell us what it is we are contributing towards a project in the team.
+#### Always remember, Good commit messages are crucial. They tell us what it is we are contributing towards a project in the team.
+
+### So this took a snapshot of the the project and the file (at its current state) called file.txt and it created a unique hash to it so that it can be identified internally.
