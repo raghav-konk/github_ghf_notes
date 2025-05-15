@@ -1,2 +1,4 @@
-# github_ghf_notes
-The notes for Github Foundations Test
+# Github Notes for GHF Test
+This repo contains notes for Github Foundations Test
+
+
