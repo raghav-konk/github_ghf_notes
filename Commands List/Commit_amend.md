@@ -16,6 +16,8 @@ git commit --amend --no-edit
 ```
 This keeps the same commit message but amends the content to the correction that was made later to the file.
 
-## Why
+## Why?
 1. This keeps the commit history clean and organised
 2. Avoids overcrowding of the commit chain.
+
+**Note:** Internally, git in fact creates a new commit hash for this amendment, However the commit message remains the same.
