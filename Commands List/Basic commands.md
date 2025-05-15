@@ -17,3 +17,10 @@ Use touch command to create a file.
 The phases go as follows.
 
 >   ### Untracked > Staged > Committed> Pushed to Github
+
+## What do these commands do??
+
+```
+ git add -A
+```
+### Adds all the files, that are not in staging area (not tracked) to the staging area.
