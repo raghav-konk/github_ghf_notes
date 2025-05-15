@@ -16,7 +16,7 @@ Follow it up by:
 sudo apt-get install git-all
 ```
 
-# 2. Chekcking the Current Version (If incase you already have it installed)
+# 2. Checking the Current Version (If incase you already have it installed)
 
 ```
     git --version
