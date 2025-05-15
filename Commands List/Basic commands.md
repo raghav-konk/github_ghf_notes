@@ -17,4 +17,3 @@ Use touch command to create a file.
 The phases go as follows.
 
 >   ### Untracked > Staged > Committed> Pushed to Github
-
