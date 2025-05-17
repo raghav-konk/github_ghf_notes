@@ -18,3 +18,6 @@ git revert --no-edit HEAD
 ## Cons: 
 1. This creates an additional commit with its own hash.
 2. Keeps the timeline more cluttered and disorganised.
+
+## About HEAD
+The head is basically the recent commit in the branch. More on that later.
