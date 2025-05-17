@@ -2,7 +2,7 @@
 
 ### We created a file added some lines of code to it. Then proceeded to commit.
 
-
+Amending basically means editing.
 
 ### But, the file in question required very minor changes such as typo or a syntax error.
 
