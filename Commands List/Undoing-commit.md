@@ -13,7 +13,7 @@ This means you made a commit with the above mentioned commit message and this co
 ```
 git revert --no-edit HEAD
 ```
-### This createsa new commit, that undoes the previous commit and everything will be the way it was before the previous commit. 
+### This creates a new commit, that undoes the previous commit and everything will be the way it was before the previous commit.
 
 ## Cons: 
 1. This creates an additional commit with its own hash.
