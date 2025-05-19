@@ -6,7 +6,7 @@ Amending basically means editing.
 
 ### But, the file in question required very minor changes such as typo or a syntax error.
 
-#### We corrected that error but now we want to commit it,But instead of creating a new commit, We merely want to edit the past commit where this change should belong to.
+#### We corrected that error but now we want to commit it, But instead of creating a new commit, We merely want to edit the past commit where this change should belong to.
 
 How do we that?
 
