@@ -2,7 +2,7 @@
 
 Alright, say if a new empty folder is made and you tried to stage and commit it.
 
- This does not work
+ This DOES NOT work.
 
 Git usually does not keep a track of empty folders.
 
