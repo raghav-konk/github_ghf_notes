@@ -1,6 +1,11 @@
 ## How do I initialise a repo?
 Create a folder, lets say cats for example. Navigate to that folder in terminal.
 
+```
+cd ~/Your Folder
+# Use absolute path if you can
+```
+
 Type in:
 ```
 git init
