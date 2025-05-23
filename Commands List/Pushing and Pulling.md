@@ -10,3 +10,6 @@ This enables you to push your code into Github remote repo.
 ## How do we update our local repo with changes from the remote repo. a.k.a Pull?
 
 ```
+git pull origin main
+```
+This updates our local repo with the contents of remote repo.
