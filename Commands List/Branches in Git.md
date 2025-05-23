@@ -10,3 +10,17 @@ git branch branch_name
 git switch new-feature
 ```
 
+# Create and switch in one step
+```
+git switch -c awesome-idea
+```
+# List all branches
+```
+git branch -a
+```
+
+# Delete a Branch
+```
+git branch -d old-branch   # safe delete (only if merged)
+git branch -D old-branch   # force delete (even if not merged)
+```
