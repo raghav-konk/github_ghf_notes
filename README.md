@@ -31,5 +31,13 @@ This process is independent of Github
 git config --global user.name "Raghav"
 git config --global user.email raghavendra.konkathi@gmail.com
 ```
+# 4. Confirming existing user setup information 
+This command shows the username and email that was setup for committing. If you have already done step 3 above, this basically shows the config that was given above
+
+```
+git config -l
+```
+
+
 
 This concludes basic setup in a linux PC.
