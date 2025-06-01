@@ -1,4 +1,4 @@
-# Github Notes for GHF Test
+# Github Notes for GHF Test exam
 This repo contains notes for Github Foundations Test
 
 
